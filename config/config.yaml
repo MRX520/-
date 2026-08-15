@@ -68,7 +68,6 @@ platforms:
   sources:
     - id: "ithome"
       name: "ithome"
-      expected_domain: "m.ithome.com"
     - id: "juejin"
       name: "掘金"
       expected_domain: "juejin.cn"
@@ -101,7 +100,7 @@ platforms:
       expected_domain: "www.producthunt.com"
     - id: "aihut"
       name: "aihut"
-      expected_domain: "aihot.virxact.com"     
+  
 
 
 # ===============================================================
@@ -385,7 +384,7 @@ ai:
 
   model: "deepseek/deepseek-v4-flash"
 
-  api_key: "	6e45b826-bcec-46fc-974e-3829e453884b"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "sk-ed2ed99ebdc84a369491cafe11bfcf0e"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: ""                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
