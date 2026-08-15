@@ -86,9 +86,6 @@ platforms:
     - id: "nowcoder"
       name: "牛客网"
       expected_domain: "www.nowcoder.com"
-    - id: "pcbeta"
-      name: "远景论坛"
-      expected_domain: "www.pcbeta.com"
     - id: "sspai"
       name: "少数派"
       expected_domain: "sspai.com"
@@ -98,8 +95,8 @@ platforms:
     - id: "producthunt"
       name: "ProductHunt"
       expected_domain: "www.producthunt.com"
-    - id: "aihut"
-      name: "aihut"
+    - id: "aihot"
+      name: "aihot"
   
 
 
