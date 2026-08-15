@@ -69,8 +69,6 @@ platforms:
     - id: "douyin"
       name: "抖音"
       expected_domain: "douyin.com"
-    - id: "ithome"
-    name: "IT之家"
     - id: "juejin"
     name: "掘金"
   - id: "github"
