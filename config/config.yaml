@@ -153,7 +153,7 @@ rss:
       name: "InfoQ"
       url: "https://www.infoq.cn/feed"
       
-      - id: "V2EX"
+    - id: "V2EX"
       name: "V2EX"
       url: "https://www.v2ex.com/index.xml"
 
