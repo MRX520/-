@@ -69,26 +69,39 @@ platforms:
     - id: "douyin"
       name: "抖音"
       expected_domain: "douyin.com"
+
+   - id: "ithome"
+    name: "ithome"   
+      
     - id: "juejin"
     name: "掘金"
-  - id: "github"
+    
+    - id: "github"
     name: "GitHub"
-  - id: "hackernews"
+    
+    - id: "hackernews"
     name: "Hacker News"
-  - id: "solidot"
-    name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
-  - id: "sspai"
-    name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
-    - id: "aihut"
-    name: "aihut"
+    
+    - id: "solidot"
+      name: "Solidot"
+      
+    - id: "v2ex"
+      name: "V2EX"
+      
+    - id: "nowcoder"
+      name: "牛客网"
+      
+    - id: "pcbeta"
+      name: "远景论坛"
+      
+    - id: "sspai"
+      name: "少数派"
+      
+    - id: "producthunt"
+      name: "ProductHunt"
+      
+      - id: "aihut"
+      name: "aihut"
 
 
 # ===============================================================
